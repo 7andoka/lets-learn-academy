@@ -1,0 +1,5 @@
+{
+  "name": "Let's Learn Academy",
+  "description": "A remote learning management system with three user roles: Admin, Teacher, and Student. Admins manage users and view reports, Teachers manage lessons for their students, and Students view their progress and attendance.",
+  "requestFramePermissions": []
+}
